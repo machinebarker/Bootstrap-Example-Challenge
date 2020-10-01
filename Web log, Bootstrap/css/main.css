@@ -1,0 +1,185 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+    font-weight: 700;
+    color: #66fcf1;
+}
+
+h5 {
+    font-size: 1.3rem;
+}
+
+
+a {
+    color: #56fcf1;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #fff;
+}
+
+input {
+    background-color: #1f2833 !important;
+    color: #66fcf1 !important;
+}
+
+img {
+    filter: grayscale(50%) brightness(0.8);
+}
+
+img.rounded-circle {
+    filter: none;
+}
+
+/* Header */
+.navbar {
+    background-color: #0b0c10;
+    color: #56fcf1;
+}
+
+.navbar-brand, .footer-logo {
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+
+.btn-main {
+    background-color: #66fcf1 !important;
+    color: #0b0c10 !important;
+}
+
+/* Main section */
+.main {
+    background-color: #1f2833;
+}
+
+.main-post {
+    position: relative;
+}
+
+.main-post-badges {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.main-post-badges > a {
+    display: block;
+    background-color: #0b0c10;
+    color: #66fcf1;
+    font-size: 0.8rem;
+}
+
+.main-post-content {
+    position: absolute;
+    bottom: 5px;
+    left: 5px;
+    color: #66fcf1;
+}
+
+.main-post-content img {
+    border: 2px solid #66fcf1;
+}
+
+/* Main Blog section */
+.blog-posts {
+    background-color: #0b0c10;
+    color : #c5c6c7;
+}
+
+.blog-post {
+    background-color: #1f2833;
+}
+
+.blog-post h3 {
+    font-size: 1.2rem;
+}
+
+.blog-post img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.blog-post p {
+    font-size: 0.9rem;
+}
+
+.blog-post .col-sm-8 {
+    border-left: 3px solid #66fcf1;
+}
+
+.badge {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.badge > a {
+    margin-left: 0.5rem;
+    padding: 0.5rem;
+    background-color: #66fcf1;
+    color: #0b0c10;
+}
+
+/* Aside */
+
+.soc-links {
+    background-color: #66fcf1;
+    color : #0b0c10;
+    font-size: 1.7rem;
+}
+
+.secondary-color {
+    background-color: #1f2833;
+    color: #66fcf1;
+}
+
+.primary-color {
+    background-color: #0b0c10;
+    color: #66fcf1;
+}
+
+.aside-heading {
+    border-left: 3px solid #66fcf1;
+}
+
+.badges {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.badges > a {
+    margin-left: 0.5rem;
+    display: inline-block;
+    margin: 0.2rem;
+    padding: 0.5rem;
+    background-color: #66fcf1;
+    color: #0b0c10;
+}
+
+/* Footer */
+
+.footer {
+    background-color: #1f2833;
+    color: #c5c6c7;
+}
+
+.footer p {
+    font-size: 0.9rem;
+}
+
+.footer a {
+    color: #56fcf1;
+}
+
+.footer input {
+    background-color: #0b0c10 !important;
+}
+
+/* Detail page */
+.content {
+    background-color: #0b0c10;
+    color: #c5c6c7;
+}
