@@ -1,0 +1,35 @@
+body {
+	background: url("https://www.pixelstalk.net/wp-content/uploads/2016/08/1080p-Nature-Background.jpeg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+h1 {
+	font-family: "Great Vibes", sans-serif;
+}
+.jumbotron {
+	font-family: "Arial";
+    color: yellow;
+    font-weight: bolder;
+    text-align: center;
+    background: rgba(204, 204, 204, 0.0);
+    padding-top: 23%;
+}
+hr {
+	width: 400px;
+	border-top: 1px solid #181818;
+	border-bottom: 1px solid rgba(0,0,0,0.3);
+}
+.btn-success {
+    color: rgb(78,161,105);
+    background-color: #031B0E;
+    border-color: #276040;
+    text-decoration: underline;
+    text-decoration-color: yellow;
+    font-weight: bolder;
+}
+html {
+	height: 100%;
+}
+ul li:hover {
+    background: rgba(0,255,255,0.2);
+}
