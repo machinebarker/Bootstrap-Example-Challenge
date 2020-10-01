@@ -1,0 +1,45 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', cursive;
+}
+
+.card {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.logo {
+    font-family: 'Sansita Swashed', cursive;
+}
+
+.card-img {
+    height: 500px;
+    border-radius: 0px;
+}
+
+.card-body h2 span {
+    font-weight: 600;
+}
+
+.form-group input {
+    border-radius: 0;
+}
+
+.form-group input:focus {
+    box-shadow: none;
+    border-radius: 0px;
+    border: 1px solid black;
+}
+
+.button {
+    border: 1px solid black;
+    border-radius: 0;
+}
+
+.button:hover {
+    background-color: black;
+    color: white;
+    box-shadow: none;
+    outline: none;
+}
