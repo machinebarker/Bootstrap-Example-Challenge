@@ -5,7 +5,7 @@ Create all Bootstrap Example page on getbootstrap.com
 Here are 3 quick and painless ways to contribute to this project:
 
 * Add your name to the `CONTRIBUTORS.md` file.
-* Create a example Bootstrap page.
+* Create a sample Bootstrap page or build your own Bootstrap page.
 
 ## Getting started
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
